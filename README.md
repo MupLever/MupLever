@@ -18,5 +18,5 @@
 ## Connect with Me
 
 <a href="mailto:8willox8@gmail.com" target="blank"><img src="svg/gmail-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
-<a href="https://t.me/shlyuzhasIV" target="blank"><img src="svg/telegram-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
-<a href="https://vk.com/ilyashlyuzhas" target="blank"><img src="svg/vk-logo-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
+<a href="https://t.me/shlyuzhasIV" target="blank"><img src="svg/telegram-plane-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
+<a href="https://vk.com/ilyashlyuzhas" target="blank"><img src="svg/vk-draw-logo-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
