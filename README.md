@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm <a href="#" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<h3 align="center">BMSTU student, department ICS-6 "Computer Systems, Complexes, and Networks"</h3>
 
 ### :computer: Skills
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
@@ -12,6 +12,12 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&color=grey&logoColor=white)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+
+### Qt, C/C++, STL, OOP and structural programming, design patterns, multithreading
+Within the framework of this stack, I developed an **application for plotting functions of one variable**, **Pong** and **Game of life**
+
+### Ruby, Ruby on Rails, PostgreSQL, JS и bootstrap
+As part of this stack, I developed a **server application for finding friends**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muplever&langs_count=7&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
 
