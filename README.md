@@ -11,7 +11,6 @@
 [![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&color=grey&logoColor=white)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
 ### Qt, C/C++, STL, OOP and structural programming, design patterns, multithreading
 Within the framework of this stack, I developed an **application for plotting functions of one variable**, **Pong** and **Game of life**
@@ -23,6 +22,6 @@ As part of this stack, I developed a **server application for finding friends**
 
 ## Connect with Me
 
-<a href="mailto:8willox8@gmail.com" target="blank"><img src="svg/gmail-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
-<a href="https://t.me/shlyuzhasIV" target="blank"><img src="svg/telegram-plane-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
-<a href="https://vk.com/ilyashlyuzhas" target="blank"><img src="svg/vk-draw-logo-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
+<a href="mailto:8willox8@gmail.com" target="blank"><img src="svg/inbox-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
+<a href="https://t.me/shlyuzhasIV" target="blank"><img src="svg/telegram-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
+<a href="https://vk.com/ilyashlyuzhas" target="blank"><img src="svg/vk-vk-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
