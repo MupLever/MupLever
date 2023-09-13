@@ -3,14 +3,13 @@
 <h3 align="center">BMSTU student, department ICS-6 "Computer Systems, Complexes, and Networks"</h3>
 
 ### :computer: Skills
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&color=grey&logoColor=white)]()
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Ruby on Rils](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&color=grey&logoColor=white)]()
 
 ### Qt, C/C++, STL, OOP and structural programming, design patterns, multithreading
 Within the framework of this stack, I developed an **application for plotting functions of one variable**, **Pong** and **Game of life**
