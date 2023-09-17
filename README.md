@@ -17,10 +17,16 @@ Within the framework of this stack, I developed an **application for plotting fu
 ### Ruby, Ruby on Rails, PostgreSQL, JS и bootstrap
 As part of this stack, I developed a **server application for finding friends**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muplever&langs_count=7&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muplever&langs_count=8&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
-<a href="mailto:8willox8@gmail.com" target="blank"><img src="svg/inbox-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
-<a href="https://t.me/shlyuzhasIV" target="blank"><img src="svg/telegram-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
-<a href="https://vk.com/ilyashlyuzhas" target="blank"><img src="svg/vk-vk-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40"></a>
+<a href="mailto:8willox8@gmail.com" target="blank">
+    <img src="svg/inbox-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40">
+</a>
+<a href="https://t.me/shlyuzhasIV" target="blank">
+    <img src="svg/telegram-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40">
+</a>
+<a href="https://vk.com/ilyashlyuzhas" target="blank">
+    <img src="svg/vk-vk-svgrepo-com.svg" alt="ShlyuzhasIV" height="30" width="40">
+</a>
