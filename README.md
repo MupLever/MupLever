@@ -4,10 +4,10 @@
 
 ### :computer: Skills
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&color=grey&logoColor=white)]()
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 [![Ruby on Rils](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
@@ -17,7 +17,7 @@ Within the framework of this stack, I developed an **application for plotting fu
 ### Ruby, Ruby on Rails, PostgreSQL, JS и bootstrap
 As part of this stack, I developed a **server application for finding friends**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muplever&langs_count=8&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muplever&langs_count=4&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
